@@ -1,0 +1,10 @@
+﻿namespace AlgoritmoCuentaRegresiva
+{
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
+}
